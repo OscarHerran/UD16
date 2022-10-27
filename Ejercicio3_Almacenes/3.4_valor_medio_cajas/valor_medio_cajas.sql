@@ -1,0 +1,2 @@
+SELECT AVG(valor)
+	FROM CAJAS;

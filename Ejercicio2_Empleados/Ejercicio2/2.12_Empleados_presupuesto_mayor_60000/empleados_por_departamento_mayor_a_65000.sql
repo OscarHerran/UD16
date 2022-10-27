@@ -1,0 +1,9 @@
+SELECT A.NOMBRE, A.DEPARTAMENTO, A.APELLIDOS, B.PRESUPUESTO, B.CODIGO  AS 'Código Departamento'
+	FROM empleados A, departamentos B
+    WHERE A.DEPARTAMENTO = B.CODIGO AND B.PRESUPUESTO >= 60000
+    ORDER BY B.CODIGO, A.APELLIDOS;
+   
+    
+   
+    
+   

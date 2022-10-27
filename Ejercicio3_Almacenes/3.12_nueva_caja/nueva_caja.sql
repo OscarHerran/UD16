@@ -1,0 +1,2 @@
+INSERT INTO CAJAS  VALUES  
+	("H5RT", "Papel", 200, 2);

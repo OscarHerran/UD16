@@ -1,0 +1,2 @@
+SELECT apellidos
+	FROM EMPLEADOS;

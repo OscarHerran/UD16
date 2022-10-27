@@ -1,0 +1,2 @@
+SELECT contenido
+	FROM CAJAS;

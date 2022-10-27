@@ -1,0 +1,3 @@
+SELECT ROUND(AVG(PRECIO)) 
+	FROM articulos
+    WHERE FABRICANTE = 2;

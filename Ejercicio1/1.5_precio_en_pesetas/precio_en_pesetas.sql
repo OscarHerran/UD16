@@ -1,0 +1,2 @@
+SELECT Nombre, (PRECIO * 166.386) AS "PRECIO EN PESETAS"
+	FROM articulos;

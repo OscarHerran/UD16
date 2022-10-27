@@ -1,0 +1,3 @@
+SELECT *
+	FROM CAJAS
+    WHERE valor > 150;
